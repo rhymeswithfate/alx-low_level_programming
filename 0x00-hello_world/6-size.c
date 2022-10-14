@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
-* find size of characters
+*main - find size of characters
+*
+* Return: Always 0
 */
 
 int main(void)

@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
-* Using puts to display text
+*main - Using puts to display text
+*
+*return: always 0
 */
 int main(void)
 {

@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
-* Using printf to print some text
+*main - Using printf to print some text
+*
+*Return: Always 0
 */
 
 int main (void)
