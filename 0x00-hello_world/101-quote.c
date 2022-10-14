@@ -1,9 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
-*
 * main - printing again
-*
 * Return: Always 1
 */
 int main(void)
