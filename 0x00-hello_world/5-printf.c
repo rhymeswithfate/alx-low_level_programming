@@ -1,4 +1,8 @@
 #include <stdio.h>
+/*
+* Using printf to print some text
+*/
+
 int main (void)
 {
 printf("with proper grammar, but the outcome is a piece of art, ");

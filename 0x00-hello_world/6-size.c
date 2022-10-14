@@ -1,4 +1,8 @@
 #include <stdio.h>
+/*
+* find size of characters
+*/
+
 int main(void)
 {
 int intsize;
