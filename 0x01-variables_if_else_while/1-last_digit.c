@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-
+#include <stdlib.h>
 /**
 * main - print last digit in variable
 * Return: Always 0
