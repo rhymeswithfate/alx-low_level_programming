@@ -13,17 +13,12 @@ while (i < 53)
 if(i < 27)
 {
 for(ch = 'a'; ch <= 'z'; ch++)
-{
 putchar(ch);
-}
 }
 else
 {
 for(ch = 'A'; ch <= 'Z'; ch++)
-{
 putchar(ch);
-}
-}
 }
 i++;
 }
