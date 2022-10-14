@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-*main - find size of characters
+* main: find size of characters
 *
 * Return: Always 0
 */
@@ -8,7 +8,7 @@
 int main(void)
 {
 int intsize;
-long int longintsize;  
+ long int longintsize;
 long long int longlongintsize;
 char charsize;
 float floatsize;
