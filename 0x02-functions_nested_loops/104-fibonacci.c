@@ -41,3 +41,4 @@ fib2_half2 = half2;
 }
 printf("\n");
 return (0);
+}
