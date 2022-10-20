@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
-* main - print the alphabet
+* _islower - Check main
+* @c: An input character
 * Return: 1 if lowercase, 0 otherwise
 */
 
